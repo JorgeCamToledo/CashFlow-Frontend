@@ -1,0 +1,46 @@
+.container2{
+    text-align: center;
+    
+    margin-top: 110px;
+    margin-right: 80px;
+    margin-bottom: auto;
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+
+.cDer{
+    margin-right: 10px;
+    
+}
+
+.cIzq{
+    /* height: 500px;
+    overflow-x:visible;
+    overflow-y: scroll; */
+    margin-left: 100px;
+}
+
+.form3 {
+    background-color: #15172b;
+    border-radius: 20px;
+    box-sizing: border-box;
+    height: 550px;
+    padding: 20px;
+    width: 320px;
+}
+
+#TCat{
+    display:block;
+    height: 550px;
+    width: 550px;
+    overflow-y: auto;
+}   
+
+
+
+
+
+
+
+
+

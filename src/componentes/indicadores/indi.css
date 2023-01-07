@@ -1,0 +1,14 @@
+.menu {
+    background-color: #15172b;
+    border-radius: 20px;
+    box-sizing: border-box;
+    height: 170px;
+    padding: 20px;
+    width: 320px;
+    margin-top: 300px;
+}
+
+.containerI{
+  width: 600px;
+  margin: 0 auto;
+}

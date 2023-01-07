@@ -1,0 +1,24 @@
+.containerF{
+    width: 700px;
+    margin-top: 50px;
+    
+
+}
+
+.margin{
+   margin-left: 50px;
+   margin-right: 60px;
+   margin-top: 30px;
+   margin-bottom: 30px;
+}
+
+#TFlujo{
+    margin: auto;
+    display:block;
+    height: 250px;
+    width: 870px;
+    overflow-y: auto;
+    margin-bottom: 50px;
+}
+
+

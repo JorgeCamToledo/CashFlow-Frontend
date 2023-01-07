@@ -1,0 +1,19 @@
+.form2 {
+    background-color: #15172b;
+    border-radius: 20px;
+    box-sizing: border-box;
+    height: 1000px;
+    padding: 20px;
+    width: 400px;
+}
+
+.opcion{
+    color: white;
+}
+
+.logoRegister{
+    width: 200px;
+    height: 200px;
+}
+
+
